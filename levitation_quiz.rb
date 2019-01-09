@@ -4,7 +4,7 @@ def levitation_quiz
   until 
   puts "What is the spell that enacts levitation?"
   levitation += 1
-  break if levitation gets ""
+  break if levitation gets "Wingardium Leviosa"
 end
 puts "You passed the quiz!"
 
