@@ -1,6 +1,6 @@
 
 def levitation_quiz
-	puts
+	puts 
 end
 
 
